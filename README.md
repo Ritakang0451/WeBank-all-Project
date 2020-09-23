@@ -138,4 +138,8 @@ All the project addresses participated and established by WeBank are collected.æ
 
 [https://gitee.com/WeBank/fes.js](https://gitee.com/WeBank/fes.js)
 
+### **wxa.js**
+[https://github.com/WeBankFinTech/wxa](https://github.com/WeBankFinTech/wxa)
+[https://gitee.com/WeBank/wxa](https://gitee.com/WeBank/wxa)
+
 
